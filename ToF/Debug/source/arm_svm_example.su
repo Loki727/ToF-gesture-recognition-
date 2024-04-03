@@ -1,0 +1,2 @@
+../source/arm_svm_example.c:20555:6:initParams	24	static
+../source/arm_svm_example.c:20569:5:predict	104	static
